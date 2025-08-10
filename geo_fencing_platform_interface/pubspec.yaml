@@ -3,7 +3,6 @@ description: "A platform interface for geo-fencing plugin."
 version: 1.0.0
 homepage: https://github.com/Akshya107/flutter_geo_fencing
 repository: https://github.com/Akshya107/flutter_geo_fencing
-author: Akshya <akkiyadav107@gmail.com>
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
