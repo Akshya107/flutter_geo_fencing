@@ -4,6 +4,7 @@
 
 * Updated README.md to reference the new main plugin name `flutter_geofence_manager`
 * Updated GitHub URLs in pubspec.yaml for consistency
+* Updated dependency to use `geo_fencing_platform_interface` ^1.0.1
 * Improved documentation consistency across the plugin suite
 
 ## 1.0.0
