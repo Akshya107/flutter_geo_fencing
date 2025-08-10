@@ -7,6 +7,7 @@
 * Updated dependencies to use latest versions of sub-packages (1.0.1)
 * Improved documentation consistency across the plugin suite
 * Updated GitHub URLs and repository information
+* All sub-packages now use consistent versioning and documentation
 
 ## 1.0.0
 
