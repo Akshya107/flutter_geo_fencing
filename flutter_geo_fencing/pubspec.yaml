@@ -1,7 +1,8 @@
 name: flutter_geo_fencing
 description: A cross-platform Flutter plugin to handle geofencing for Android and iOS. Provides background location monitoring and geofence event handling.
 version: 1.0.0
-homepage: https://github.com/yourusername/flutter_geo_fencing
+homepage: https://github.com/Akshya107/flutter_geo_fencing
+repository: https://github.com/Akshya107/flutter_geo_fencing
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -10,17 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # Note: These are path dependencies for development.
-  # For publishing, these should be replaced with version constraints:
-  # geo_fencing_platform_interface: ^1.0.0
-  # geo_fencing_android: ^1.0.0
-  # geo_fencing_ios: ^1.0.0
-  geo_fencing_platform_interface:
-    path: ../geo_fencing_platform_interface
-  geo_fencing_android:
-    path: ../geo_fencing_android
-  geo_fencing_ios:
-    path: ../geo_fencing_ios
+  geo_fencing_platform_interface: ^1.0.0
+  geo_fencing_android: ^1.0.0
+  geo_fencing_ios: ^1.0.0
 
 dev_dependencies:
   flutter_test:
