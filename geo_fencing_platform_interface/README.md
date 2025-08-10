@@ -20,7 +20,7 @@ This package defines the contract for geo-fencing functionality across different
 
 ## Usage
 
-This package is primarily used by platform-specific implementations and the main geo-fencing plugin. For end users, see the main `flutter_geo_fencing` package.
+This package is primarily used by platform-specific implementations and the main geo-fencing plugin. For end users, see the main `flutter_geofence_manager` package.
 
 ## API Reference
 
