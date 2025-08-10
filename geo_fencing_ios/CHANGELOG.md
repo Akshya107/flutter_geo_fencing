@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+* Updated README.md to reference the new main plugin name `flutter_geofence_manager`
+* Updated GitHub URLs in pubspec.yaml for consistency
+* Improved documentation consistency across the plugin suite
+
 ## 1.0.0
 
 * Initial release of the iOS geo-fencing implementation

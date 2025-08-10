@@ -9,10 +9,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A Flutter plugin for iOS geofencing functionality. This plugin provides background location monitoring and geofence event handling for iOS applications.
                        DESC
-  s.homepage         = 'https://github.com/yourusername/flutter_geo_fencing'
+  s.homepage         = 'https://github.com/Akshya107/flutter_geo_fencing'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Your Name' => 'your.email@example.com' }
-  s.source           = { :git => 'https://github.com/yourusername/flutter_geo_fencing.git', :tag => s.version.to_s }
+  s.author           = { 'Akshya' => 'akkiyadav107@gmail.com' }
+  s.source           = { :git => 'https://github.com/Akshya107/flutter_geo_fencing.git', :tag => s.version.to_s }
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
 
