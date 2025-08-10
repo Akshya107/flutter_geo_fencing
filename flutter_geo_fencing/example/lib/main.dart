@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:flutter_geo_fencing/flutter_geo_fencing.dart';
+import 'package:flutter_geo_fencing/flutter_geo_fence.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 
@@ -68,7 +68,7 @@ class GeoFencingHomePage extends StatefulWidget {
 }
 
 class _GeoFencingHomePageState extends State<GeoFencingHomePage> {
-  final FlutterGeoFencing _geoFencing = FlutterGeoFencing.instance;
+  final FlutterGeoFence _geoFencing = FlutterGeoFence.instance;
 
   bool _isInitialized = false;
   bool _isMonitoring = false;

@@ -138,23 +138,26 @@ packages:
   geo_fencing_android:
     dependency: transitive
     description:
-      path: "../../geo_fencing_android"
-      relative: true
-    source: path
+      name: geo_fencing_android
+      sha256: "38396093b7dc685b7c3971ad1218829ffc1fff62a9825f0e5cbef6dc5a9d525f"
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   geo_fencing_ios:
     dependency: transitive
     description:
-      path: "../../geo_fencing_ios"
-      relative: true
-    source: path
+      name: geo_fencing_ios
+      sha256: cff0e9c801d664550c63017740a32bfb84effb18592c13ec21a95bc1cbf2d475
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   geo_fencing_platform_interface:
     dependency: transitive
     description:
-      path: "../../geo_fencing_platform_interface"
-      relative: true
-    source: path
+      name: geo_fencing_platform_interface
+      sha256: "136d540ec6b7cafe1390923c13bd8d0bd6f0d689b906b99857bf69ebd974aa8e"
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   http:
     dependency: transitive
