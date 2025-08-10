@@ -1,6 +1,6 @@
 name: geo_fencing_android
-description: "Android implementation of geo_fencing plugin."
-version: 1.0.0
+description: "Android implementation of flutter_geofence_manager plugin."
+version: 1.0.1
 homepage: https://github.com/Akshya107/flutter_geo_fencing
 repository: https://github.com/Akshya107/flutter_geo_fencing
 

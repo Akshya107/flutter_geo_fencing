@@ -46,7 +46,7 @@ This package implements the geo-fencing functionality for Android using Google P
 
 ## Usage
 
-This package is automatically used by the main `flutter_geo_fencing` plugin when running on Android. No additional setup is required beyond the main plugin configuration.
+This package is automatically used by the main `flutter_geofence_manager` plugin when running on Android. No additional setup is required beyond the main plugin configuration.
 
 ## License
 
