@@ -1,4 +1,4 @@
-library flutter_geo_fence;
+library flutter_geofence_manager;
 
 import 'dart:io';
 
@@ -13,10 +13,10 @@ export 'package:geo_fencing_platform_interface/geo_fencing_platform_interface.da
 ///
 /// This plugin provides background location monitoring and geofence event handling
 /// for both Android and iOS platforms.
-class FlutterGeoFence {
-  FlutterGeoFence._(); // private constructor
+class FlutterGeofenceManager {
+  FlutterGeofenceManager._(); // private constructor
 
-  static final instance = FlutterGeoFence._();
+  static final instance = FlutterGeofenceManager._();
   static bool _registered = false;
 
   /// Register platform implementations.
