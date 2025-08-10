@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_android/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_android/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_android/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_android/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_android/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_android/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_platform_interface/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_platform_interface/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_platform_interface/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/integration_test_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_geo_fencing/example/ios/.symlinks/plugins/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/integration_test_macos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/integration_test/integration_test_macos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/build" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/geo_fencing_ios/example/ios/.symlinks/plugins/permission_handler_apple/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
