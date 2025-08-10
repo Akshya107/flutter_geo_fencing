@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.geofencing.android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Location permissions -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -15,7 +14,7 @@
             android:exported="true">
 
         <intent-filter>
-            <action android:name="com.example.geo_fencing_android.ACTION_GEOFENCE_EVENT" />
+            <action android:name="com.geofencing.android.ACTION_GEOFENCE_EVENT" />
         </intent-filter>
         </receiver>
 

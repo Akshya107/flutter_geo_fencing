@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.2
+
+* Bug Fixes `flutter_geofence_manager`
+    - Fixed Android build failure caused by deprecated package attribute in AndroidManifest.xml
+    - Updated package namespace configuration for Android Gradle Plugin compatibility
+    - Resolved package declaration mismatches in Kotlin source files
+
 ## 1.0.1
 
 * Updated package name from `flutter_geo_fencing` to `flutter_geofence_manager` to resolve naming conflicts

@@ -38,7 +38,8 @@ dependencies:
   # Add the flutter_geofence_manager plugin dependency
   permission_handler: ^12.0.1
   flutter_local_notifications: ^18.0.0
-  flutter_geofence_manager: ^1.0.0
+  flutter_geofence_manager: ^1.0.2
+
 
 dev_dependencies:
   flutter_test:

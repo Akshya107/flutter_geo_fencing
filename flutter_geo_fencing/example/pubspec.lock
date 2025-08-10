@@ -90,10 +90,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_geofence_manager
-      sha256: "768dab62fffa4f33ff3067d6cd56a0e4d0a96de01a68405147bc821e66e45cf3"
+      sha256: "607ae9bd840fc3f98666b14a7fed4e96416d3d3f66e44d772b640c0c355f92fa"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -140,26 +140,26 @@ packages:
     dependency: transitive
     description:
       name: geo_fencing_android
-      sha256: "38396093b7dc685b7c3971ad1218829ffc1fff62a9825f0e5cbef6dc5a9d525f"
+      sha256: "8c46e920c3471e59e01bf7ba743b03409ce2bd2cccd83464d9bd6c3edf3887aa"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   geo_fencing_ios:
     dependency: transitive
     description:
       name: geo_fencing_ios
-      sha256: cff0e9c801d664550c63017740a32bfb84effb18592c13ec21a95bc1cbf2d475
+      sha256: aadac62e4bceaca31a27aaff7d1a3cbca8dd9a12cdac7c40e8bd34e8dacb509f
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   geo_fencing_platform_interface:
     dependency: transitive
     description:
       name: geo_fencing_platform_interface
-      sha256: "136d540ec6b7cafe1390923c13bd8d0bd6f0d689b906b99857bf69ebd974aa8e"
+      sha256: "27d399c3c46bb641e1523fc601b3a8ef85d3d0e971b86d8d1ee6891ecfa1cb4c"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "1.0.1"
   http:
     dependency: transitive
     description:

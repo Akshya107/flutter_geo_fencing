@@ -1,4 +1,4 @@
-group = "com.example.geo_fencing_android"
+group = "com.geofencing.android"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -26,7 +26,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "com.example.geo_fencing_android"
+    namespace = "com.geofencing.android"
 
     compileSdk = 35
 

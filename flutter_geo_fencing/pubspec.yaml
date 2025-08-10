@@ -1,6 +1,6 @@
 name: flutter_geofence_manager
 description: A cross-platform Flutter plugin to handle flutter_geofence_manager for Android and iOS. Provides background location monitoring and geofence event handling.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/Akshya107/flutter_geo_fencing
 repository: https://github.com/Akshya107/flutter_geo_fencing
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   geo_fencing_platform_interface: ^1.0.1
-  geo_fencing_android: ^1.0.1
+  geo_fencing_android: ^1.0.2
   geo_fencing_ios: ^1.0.1
 
 dev_dependencies:
