@@ -1,9 +1,9 @@
-# Publishing Checklist for flutter_geo_fencing
+# Publishing Checklist for flutter_geofence_manager
 
 ## ✅ **COMPLETED FIXES**
 
 ### 1. License Files
-- [x] Added MIT LICENSE to `flutter_geo_fencing/`
+- [x] Added MIT LICENSE to `flutter_geofence_manager/`
 - [x] Added MIT LICENSE to `geo_fencing_platform_interface/`
 - [x] Added MIT LICENSE to `geo_fencing_android/`
 - [x] Added MIT LICENSE to `geo_fencing_ios/`
@@ -38,7 +38,7 @@
 **Action Required**: Before publishing, replace all path dependencies with version constraints
 
 ```yaml
-# In flutter_geo_fencing/pubspec.yaml, change:
+# In flutter_geofence_manager/pubspec.yaml, change:
 dependencies:
   geo_fencing_platform_interface: ^1.0.0  # instead of path: ../geo_fencing_platform_interface
   geo_fencing_android: ^1.0.0             # instead of path: ../geo_fencing_android
@@ -58,7 +58,7 @@ dependencies:
 1. `geo_fencing_platform_interface` (dependency of others)
 2. `geo_fencing_android` (depends on platform interface)
 3. `geo_fencing_ios` (depends on platform interface)
-4. `flutter_geo_fencing` (depends on all others)
+4. `flutter_geofence_manager` (depends on all others)
 
 ### 3. **Package Names**
 - [ ] Update `homepage` URLs in all pubspec.yaml files
@@ -90,7 +90,7 @@ flutter pub publish --dry-run
 flutter pub publish
 
 # 4. Publish main package
-cd ../flutter_geo_fencing
+cd ../flutter_geofence_manager
 flutter pub publish --dry-run
 flutter pub publish
 ```

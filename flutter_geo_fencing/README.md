@@ -1,4 +1,4 @@
-# flutter_geo_fencing
+# flutter_geofence_manager
 
 A cross-platform Flutter plugin for geofencing functionality. This plugin provides background location monitoring and geofence event handling for both Android and iOS platforms.
 
@@ -25,7 +25,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_geo_fencing: ^1.0.0
+  flutter_geofence_manager: ^1.0.0
 ```
 
 ### Platform Setup
@@ -84,7 +84,7 @@ if (status.isGranted) {
 ### Basic Usage
 
 ```dart
-import 'package:flutter_geo_fencing/flutter_geo_fencing.dart';
+import 'package:flutter_geofence_manager/flutter_geofence_manager.dart';
 
 class GeofencingService {
   final _geoFencing = FlutterGeoFencing.instance;
@@ -133,7 +133,7 @@ class GeofencingService {
 ### Advanced Usage
 
 ```dart
-import 'package:flutter_geo_fencing/flutter_geo_fencing.dart';
+import 'package:flutter_geofence_manager/flutter_geofence_manager.dart';
 
 class GeofencingManager {
   final _geoFencing = FlutterGeoFencing.instance;
