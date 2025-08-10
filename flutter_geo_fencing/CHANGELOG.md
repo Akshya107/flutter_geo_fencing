@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1
+
+* Updated package name from `flutter_geo_fencing` to `flutter_geofence_manager` to resolve naming conflicts
+* Updated all documentation and references to use the new package name
+* Updated dependencies to use latest versions of sub-packages (1.0.1)
+* Improved documentation consistency across the plugin suite
+* Updated GitHub URLs and repository information
+
 ## 1.0.0
 
 * Initial release of the cross-platform geofencing plugin
